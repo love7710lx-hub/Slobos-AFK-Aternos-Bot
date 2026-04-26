@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Shinobismp69.aternos.me",
+    "ip": "",
     "port": 43634,
     "version": "1.21.11",
     "try-creative": false
